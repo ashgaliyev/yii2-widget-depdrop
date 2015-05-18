@@ -25,5 +25,11 @@
         "psr-4": {
             "kartik\\depdrop\\": ""
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ashgaliyev/yii2-krajee-base"
+        }
+    ]
 }
