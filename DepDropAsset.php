@@ -7,7 +7,7 @@
  * @version 1.0.0
  */
 
-namespace kartik\depdrop;
+namespace ashgaliyev\depdrop;
 
 /**
  * Asset bundle for Dependent Dropdown widget
@@ -15,7 +15,7 @@ namespace kartik\depdrop;
  * @author Kartik Visweswaran <kartikv2@gmail.com>
  * @since 1.0
  */
-class DepDropAsset extends \kartik\base\AssetBundle
+class DepDropAsset extends \ashgaliyev\base\AssetBundle
 {
 
     public function init()

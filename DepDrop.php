@@ -7,11 +7,11 @@
  * @version 1.0.0
  */
 
-namespace kartik\depdrop;
+namespace ashgaliyev\depdrop;
 
 use yii\helpers\ArrayHelper;
 use yii\base\InvalidConfigException;
-use kartik\base\Config;
+use ashgaliyev\base\Config;
 use kartik\select2\Select2;
 
 /**
@@ -24,7 +24,7 @@ use kartik\select2\Select2;
  * @author Kartik Visweswaran <kartikv2@gmail.com>
  * @since 1.0.0
  */
-class DepDrop extends \kartik\base\InputWidget
+class DepDrop extends \ashgaliyev\base\InputWidget
 {
     const TYPE_DEFAULT = 1;
     const TYPE_SELECT2 = 2;
