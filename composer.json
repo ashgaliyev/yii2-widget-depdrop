@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "kartik-v/yii2-krajee-base": "*",
+        "ashgaliyev/yii2-krajee-base": "*",
         "kartik-v/dependent-dropdown": "*"
     },
     "autoload": {
